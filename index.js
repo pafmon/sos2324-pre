@@ -17,7 +17,7 @@ const API_BASE="/api/v1";
 
 var contacts = [
     {
-        name: "jonas",
+        name: "elias",
         phone: 12345
     },
     {
